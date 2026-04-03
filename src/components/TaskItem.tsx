@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Trash2, Edit2, Check, Calendar, Copy } from 'lucide-react';
+import { Trash2, Edit2, Check, Calendar } from 'lucide-react';
 import { Task } from '../types/Task';
 
 interface TaskItemProps {
