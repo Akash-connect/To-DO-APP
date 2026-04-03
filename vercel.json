@@ -4,8 +4,5 @@
   "installCommand": "npm install",
   "framework": "vite",
   "outputDirectory": "dist",
-  "regions": ["iad1"],
-  "env": {
-    "VITE_API_URL": "@vite_api_url"
-  }
+  "regions": ["iad1"]
 }
